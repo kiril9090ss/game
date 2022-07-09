@@ -1,0 +1,43 @@
+body{
+    background-color: aqua;
+    color: white;
+    width: 100%;
+}
+
+.block {
+    background-color: blue;
+    border: 2px dashed yellow;
+    height: 60px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.header,
+.footer,
+.main {
+    width: 80%;
+    margin: 0 auto; 
+}
+
+.block1 {
+    width: 28%;
+    float: left;
+    margin-bottom: 5px;
+    margin: 0 auto;
+}
+
+.block2{
+    width: 28%;
+    float: right;
+    margin-bottom: 5px;
+    margin: 0 auto;
+}
+
+.block3{
+    width: 35%;
+    float: center;
+    margin: 0 auto;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    clear: center;
+}

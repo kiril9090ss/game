@@ -1,0 +1,30 @@
+body{
+    font-family: Consolas; 
+    color:navy;
+    background-image:url("img/79.jpg");      
+}
+
+h1 {
+   color: orange; 
+
+}
+
+#people {
+    color: white;
+    background-color: red;
+    font-size: 16px;
+}
+
+.p1{
+    color: #00ff1e;
+
+}
+
+.p2{
+    color:#df11ed;
+
+}
+
+.p3{
+    color: #82bfa9;
+}

@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.menu{
+    width: 100%;
+    background-color: burlywood;
+    padding: 5px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+ul{
+    list-style: none;
+}
+
+.menu a{
+    color: brown;
+    text-decoration:none;
+    padding: 10px 15px;
+}
+
+.active{
+    background-color: blueviolet;
+    padding: 5px;
+    border-radius: 30px;
+}
+
+.active a{
+    color: white;
+}
+
+.btn:hover{
+    font-size: 18px;
+    border-bottom: 3px solid blue;
+}

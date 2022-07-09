@@ -1,0 +1,35 @@
+body{
+    background-color: blue;
+    background-image:url(img/66.jpg) ;
+}
+
+.block {
+    background-color:#f3d9f2;
+    color: rgb(0, 0, 0);
+    border: 2px solid white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.block1 {
+    height: 40px;
+    width: 200px;
+}
+
+.block2{
+    margin-top: 20px;
+    margin-left: 120px;
+    padding-top: 20px;
+    padding-left: 40px;
+    width: 100px;
+    height: 40px;
+}
+
+.block3 {
+    border: 10px solid white;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding-top: 10px;
+    padding-left: 10px;
+    height: 30px;
+    width: 170px;
+}
